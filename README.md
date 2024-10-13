@@ -1,6 +1,6 @@
 # armin_projekat
 
-RMA Seminarski
+RMA Seminarski, aplikacija dohvaća slične riječi pomoću Datamuse API-a.
 
 ## Getting Started
 
